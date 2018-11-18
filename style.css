@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-size: xx-large;
+}
+
+body {
+    background: #94b5c2;
+    color: #eadcc1;
+    text-shadow: #423c6d 0px 1px 10px;
+}
+
+#login-page {
+    box-sizing: border-box;
+    margin: 0px auto;
+    width: 400px;
+    text-align: center;
+    padding: 100px 0px;
+}
+
+form {
+    background: #7a839e;
+    border-radius: 20px;
+    padding: 50px 10px 20px;
+    box-shadow: #7a839e 0px 2px 15px;
+}
+
+input {
+    padding: 10px;
+    background: #fef5d8;
+
+    border-radius: 10px;
+    /*    box-shadow: #554343 1px 1px 2px;*/
+}
+
+h3 {
+    font-family: 'Calibri';
+    text-shadow: #423c6d 0px 1px 10px;
+}
+
+label {
+    font-family: 'Calibri Light';
+}
+
+button {
+    margin: 20px 10px;
+    font-size: 1em;
+    padding: 10px 15px;
+    background: #423c6d;
+    color: #eadcc1;
+    border-radius: 5px;
+}
